@@ -1,0 +1,102 @@
+model,params,score
+logistic_regression,"('l1', 'saga', 0.001)",0.8113636363636363
+logistic_regression,"('l1', 'saga', 0.001623776739188721)",0.8113636363636363
+logistic_regression,"('l1', 'saga', 0.0026366508987303583)",0.8113636363636363
+logistic_regression,"('l1', 'saga', 0.004281332398719396)",0.8204545454545454
+logistic_regression,"('l1', 'saga', 0.0069519279617756054)",0.8136363636363636
+logistic_regression,"('l1', 'saga', 0.011288378916846888)",0.8136363636363637
+logistic_regression,"('l1', 'saga', 0.018329807108324356)",0.8340909090909091
+logistic_regression,"('l1', 'saga', 0.029763514416313176)",0.8386363636363637
+logistic_regression,"('l1', 'saga', 0.04832930238571752)",0.8409090909090909
+logistic_regression,"('l1', 'saga', 0.07847599703514611)",0.8409090909090909
+logistic_regression,"('l1', 'saga', 0.12742749857031335)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 0.20691380811147903)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 0.3359818286283781)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 0.5455594781168515)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 0.8858667904100823)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 1.438449888287663)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 2.3357214690901213)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 3.792690190732246)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 6.158482110660261)",0.8363636363636363
+logistic_regression,"('l1', 'saga', 10.0)",0.8363636363636363
+logistic_regression,"('l1', 'liblinear', 0.001)",0.8113636363636363
+logistic_regression,"('l1', 'liblinear', 0.001623776739188721)",0.8113636363636363
+logistic_regression,"('l1', 'liblinear', 0.0026366508987303583)",0.8204545454545454
+logistic_regression,"('l1', 'liblinear', 0.004281332398719396)",0.8136363636363636
+logistic_regression,"('l1', 'liblinear', 0.0069519279617756054)",0.8090909090909091
+logistic_regression,"('l1', 'liblinear', 0.011288378916846888)",0.8181818181818182
+logistic_regression,"('l1', 'liblinear', 0.018329807108324356)",0.8181818181818183
+logistic_regression,"('l1', 'liblinear', 0.029763514416313176)",0.8250000000000001
+logistic_regression,"('l1', 'liblinear', 0.04832930238571752)",0.8272727272727274
+logistic_regression,"('l1', 'liblinear', 0.07847599703514611)",0.8318181818181819
+logistic_regression,"('l1', 'liblinear', 0.12742749857031335)",0.8340909090909091
+logistic_regression,"('l1', 'liblinear', 0.20691380811147903)",0.8340909090909091
+logistic_regression,"('l1', 'liblinear', 0.3359818286283781)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 0.5455594781168515)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 0.8858667904100823)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 1.438449888287663)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 2.3357214690901213)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 3.792690190732246)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 6.158482110660261)",0.8386363636363636
+logistic_regression,"('l1', 'liblinear', 10.0)",0.8386363636363636
+logistic_regression,"('l2', 'saga', 0.001)",0.8113636363636366
+logistic_regression,"('l2', 'saga', 0.001623776739188721)",0.8136363636363637
+logistic_regression,"('l2', 'saga', 0.0026366508987303583)",0.8204545454545454
+logistic_regression,"('l2', 'saga', 0.004281332398719396)",0.8295454545454546
+logistic_regression,"('l2', 'saga', 0.0069519279617756054)",0.8295454545454547
+logistic_regression,"('l2', 'saga', 0.011288378916846888)",0.8272727272727274
+logistic_regression,"('l2', 'saga', 0.018329807108324356)",0.8295454545454547
+logistic_regression,"('l2', 'saga', 0.029763514416313176)",0.8340909090909091
+logistic_regression,"('l2', 'saga', 0.04832930238571752)",0.8272727272727273
+logistic_regression,"('l2', 'saga', 0.07847599703514611)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 0.12742749857031335)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 0.20691380811147903)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 0.3359818286283781)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 0.5455594781168515)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 0.8858667904100823)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 1.438449888287663)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 2.3357214690901213)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 3.792690190732246)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 6.158482110660261)",0.8363636363636363
+logistic_regression,"('l2', 'saga', 10.0)",0.8363636363636363
+logistic_regression,"('l2', 'liblinear', 0.001)",0.8045454545454547
+logistic_regression,"('l2', 'liblinear', 0.001623776739188721)",0.8
+logistic_regression,"('l2', 'liblinear', 0.0026366508987303583)",0.8045454545454547
+logistic_regression,"('l2', 'liblinear', 0.004281332398719396)",0.8113636363636366
+logistic_regression,"('l2', 'liblinear', 0.0069519279617756054)",0.815909090909091
+logistic_regression,"('l2', 'liblinear', 0.011288378916846888)",0.8204545454545454
+logistic_regression,"('l2', 'liblinear', 0.018329807108324356)",0.8250000000000001
+logistic_regression,"('l2', 'liblinear', 0.029763514416313176)",0.825
+logistic_regression,"('l2', 'liblinear', 0.04832930238571752)",0.8295454545454546
+logistic_regression,"('l2', 'liblinear', 0.07847599703514611)",0.8295454545454547
+logistic_regression,"('l2', 'liblinear', 0.12742749857031335)",0.8295454545454546
+logistic_regression,"('l2', 'liblinear', 0.20691380811147903)",0.8250000000000001
+logistic_regression,"('l2', 'liblinear', 0.3359818286283781)",0.8272727272727273
+logistic_regression,"('l2', 'liblinear', 0.5455594781168515)",0.8295454545454546
+logistic_regression,"('l2', 'liblinear', 0.8858667904100823)",0.8318181818181819
+logistic_regression,"('l2', 'liblinear', 1.438449888287663)",0.8340909090909091
+logistic_regression,"('l2', 'liblinear', 2.3357214690901213)",0.8340909090909091
+logistic_regression,"('l2', 'liblinear', 3.792690190732246)",0.8340909090909091
+logistic_regression,"('l2', 'liblinear', 6.158482110660261)",0.8340909090909091
+logistic_regression,"('l2', 'liblinear', 10.0)",0.8340909090909091
+random_forest_classifier,"('gini', 0.8)",0.840909090909091
+random_forest_classifier,"('gini', 'auto')",0.8363636363636361
+random_forest_classifier,"('gini', None)",0.8181818181818185
+random_forest_classifier,"('entropy', 0.8)",0.8318181818181819
+random_forest_classifier,"('entropy', 'auto')",0.8363636363636366
+random_forest_classifier,"('entropy', None)",0.8431818181818183
+XGBoost_classifier,"('gbtree', 0.3)",0.8272727272727276
+XGBoost_classifier,"('gbtree', 0.4)",0.8295454545454546
+XGBoost_classifier,"('gbtree', 0.5)",0.838636363636364
+XGBoost_classifier,"('gbtree', 0.6)",0.8295454545454547
+XGBoost_classifier,"('gbtree', 0.7)",0.8250000000000003
+XGBoost_classifier,"('gblinear', 0.3)",0.825
+XGBoost_classifier,"('gblinear', 0.4)",0.8318181818181817
+XGBoost_classifier,"('gblinear', 0.5)",0.8318181818181817
+XGBoost_classifier,"('gblinear', 0.6)",0.834090909090909
+XGBoost_classifier,"('gblinear', 0.7)",0.834090909090909
+XGBoost_classifier,"('dart', 0.3)",0.8272727272727276
+XGBoost_classifier,"('dart', 0.4)",0.8295454545454546
+XGBoost_classifier,"('dart', 0.5)",0.838636363636364
+XGBoost_classifier,"('dart', 0.6)",0.8295454545454547
+XGBoost_classifier,"('dart', 0.7)",0.8250000000000003
